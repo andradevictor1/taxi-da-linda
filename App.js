@@ -31,7 +31,7 @@ import {
  
 } from 'react-native/Libraries/NewAppScreen';
 
-const App: () => React$Node = () => {
+const App = () => <Routes />; {
   return (
     <>
   
